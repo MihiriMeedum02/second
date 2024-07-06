@@ -1,0 +1,16 @@
+#main{
+    background-color: black;
+    color: aqua;
+    margin-right: 1300px;
+}
+body{
+    background-image: url("https://png.pngtree.com/background/20210711/original/pngtree-hand-drawn-winter-snow-snow-illustration-background-picture-image_1147379.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.imgs{
+    border-color: black;
+    border-radius: 40px;
+}
